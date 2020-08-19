@@ -34,9 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-collections: 
-  reviews
-  output: true
+collections:
+  - reviews
 
 
 
