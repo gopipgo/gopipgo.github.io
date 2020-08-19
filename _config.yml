@@ -34,11 +34,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
-collections:
-  - reviews:
-    output: true
-    permalink: /reviews/:path/
-  
+collections: 
+  reviews
+  output: true
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
